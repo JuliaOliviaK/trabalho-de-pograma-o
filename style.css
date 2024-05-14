@@ -1,4 +1,6 @@
 header {background-color: rgb(0, 0, 0); color: rgb(121, 157, 255);display: flex;justify-content: space-around;align-items: center;padding: 24px;}
+.dm-serif-display-regular {font-family: "DM Serif Display", serif;font-weight: 400;font-style: normal;}  
 .cabecalho-imagem{width: 20%;}
 .cabecalho-lista-item{display: inline-block;margin:0  16px;font-size: 24px;}.conteudo-principal { display: flex;
-    .conteudo-principal { display: flex;flex-direction: column;justify-content: center; align-items: center; max-width: 1200px; width: 100%;margin: 0 auto;}
+    .conteudo-principal { display: flex;flex-direction: column;justify-content: center; align-items: center; max-width: 1200px; width: 100%;margin: 0 auto;}.titulo-principal { text-align: left;
+    .titulo-principal { text-align: left;width: 100%;font-size: 32px;}
