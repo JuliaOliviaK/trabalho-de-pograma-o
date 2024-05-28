@@ -3,7 +3,7 @@
 :root { --cor-de-fundo: #000000; --turquoise: #35ffeb; --lightCyan: #E0FFFF; --botao-ativo: #000000;  
    --botao-inativo: rgba(121, 241, 241, 0.5);  --texto-fundo: rgba(121, 241, 241, 0.3);}
 body { background-color: var(--cor-de-fundo); color: var(--lightCyan);
-  font-family: ;}// <uniquifier>: Use a unique and descriptive class name
+  // <uniquifier>: Use a unique and descriptive class name
   // <weight>: Use a value from 400 to 800
   
   .eb-garamond-<uniquifier> {
